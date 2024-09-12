@@ -29,4 +29,4 @@ This project involves the development and comparison of various machine learning
 - Enhanced proficiency in using popular machine learning libraries such as **Scikit-learn** and **XGBoost**.
 - Improved understanding of feature importance and how different algorithms handle it.
 
-You can view the project on GitHub: [Machine Learning Models](https://github.com/yourusername/MachineLearningModels)
+You can view the project on GitHub: [Machine Learning Models](https://github.com/ZakariaRabahi/MachineLearningModels)
